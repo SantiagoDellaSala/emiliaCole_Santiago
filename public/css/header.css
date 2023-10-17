@@ -1,0 +1,27 @@
+.header__nav--menu a{
+    text-transform: uppercase;
+    line-height: 30px;
+    color: gray
+}
+
+.header__nav--redes a{
+    color: black;
+}
+
+.header--vertical{
+    margin-left: 30px;
+}
+
+.header--horizontal ul li{
+    display: inline;
+}
+
+.header--horizontal .header__nav--menu{
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1px;
+}
+
+.header--horizontal .header__nav--redes{
+    text-align: right;
+}
